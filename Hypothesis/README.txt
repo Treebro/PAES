@@ -1,0 +1,1 @@
+Your body which houses the only copy of your perspective soul can be maintained indefinitely.
