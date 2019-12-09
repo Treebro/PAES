@@ -9,7 +9,7 @@ This project will primarily focus on wetware rather than software, any license a
 
 Would be nice to have an open source variant instead of just taking whatever private group makes and giving it admin rights to literally everything your soul experiences reality through.
 
-Write/verify the source DNA you want to augment, do this with knowledge of every line of code's function.
+Write/verify the source DNA you want to augment, do this with knowledge of every segment of code's function.
 
 Triple check on 3 seperate verification measures that the code is precisely accurate.
 
