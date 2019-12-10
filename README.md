@@ -7,7 +7,7 @@ I have both faith and an intense focus that this can be acheived solely through 
 
 This project will primarily focus on wetware rather than software, any license attached should consider both as equivelents.  They are both structured by data stored in memory. Since each DNA nucleotide is base4 (TGAC) it can be stored in 2 bits per nucleotide.  Since the project will be stored in binary on servers, the saved genetic coding methods should be considered software directly. 
 
-Would be nice to have an open source variant instead of just taking whatever a private group makes. Genetic modifications will be giving "admin privilege" to literally everything your soul experiences reality through.
+Would be nice to have an open source variant instead of just taking whatever a private group makes. Genetic modifications will be giving "admin privilege" to literally everything your soul experiences reality through, including your brain and future decision making functions.
 
 Write/verify the source DNA you want to augment, do this with knowledge of every segment of the genetic code's function.
 
